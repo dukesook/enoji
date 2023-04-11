@@ -1,5 +1,3 @@
-# Image Overview
-
 ## red_moon.jp2
 * Standard JPEG2000 version of the image.
 <br /><br />
