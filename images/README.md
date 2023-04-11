@@ -14,7 +14,7 @@
 <br /><br />
 
 ## red_moon_mp4box.png
-* [MP4Box.js](https://gpac.github.io/mp4box.js/test/filereader.html) is a useful tool for examining ISO BMFF files. This image shows how it would parse *red_moon_jpeg2000.heif* once the lastest [pull request](https://github.com/gpac/mp4box.js/pull/323) is accepted.
+* [MP4Box.js](https://gpac.github.io/mp4box.js/test/filereader.html) is a useful tool for examining ISO BMFF files. This image shows how it **would** parse *red_moon_jpeg2000.heif* once the lastest [pull request](https://github.com/gpac/mp4box.js/pull/323) is accepted.
 <br /><br />
 <br /><br />
 
