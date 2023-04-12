@@ -9,7 +9,7 @@
 
 
 ## red_moon_jpeg2000.heif
-* One of the first HEIF files to contain a JPEG2000 encoded image. It's configured to be as simple as possible for now and more advanced features will be worked out in the future.
+* One of the first HEIF files to contain a JPEG2000 encoded image. It's configured to be as simple as possible for now with more advanced features to come.
 * A big thanks to Josh Lenart for providing the image.
 <br /><br />
 
