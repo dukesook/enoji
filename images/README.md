@@ -8,7 +8,7 @@
 <br /><br />
 
 
-## lunar_eclipse_jpeg2000.heif
+## lunar_eclipse_jpeg2000.hej2
 * One of the first HEIF files to contain a JPEG2000 encoded image. It's configured to be as simple as possible for now with more advanced features to come.
 * The [jpeg2k branch](https://github.com/strukturag/libheif/tree/jpeg2k) in libheif was used to create the image. 
 * A big thanks to Josh Lenart for providing the image.
