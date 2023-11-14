@@ -14,6 +14,7 @@
 
 ## lunar_eclipse_J2K.heic
 * One of the first HEIF files to contain a JPEG2000 encoded image.
+* The lastest version of GIMP is able to display the image.
 * The libheif library was used to create the image.
 * A big thanks to Josh Lenart for providing the image.
 <br /><br />
